@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/validate-react-form/static/css/main.073c9b0a.css",
+    "main.js": "/validate-react-form/static/js/main.a187f98c.js",
+    "static/js/787.994dc55e.chunk.js": "/validate-react-form/static/js/787.994dc55e.chunk.js",
+    "static/media/logo.svg": "/validate-react-form/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/validate-react-form/index.html",
+    "main.073c9b0a.css.map": "/validate-react-form/static/css/main.073c9b0a.css.map",
+    "main.a187f98c.js.map": "/validate-react-form/static/js/main.a187f98c.js.map",
+    "787.994dc55e.chunk.js.map": "/validate-react-form/static/js/787.994dc55e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a187f98c.js"
+  ]
+}
